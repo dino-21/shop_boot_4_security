@@ -114,12 +114,13 @@
 			<version>2.7.1</version>
 		</dependency>
 
+	
 		<!-- 스프링 부트 애플리케이션의 테스트를 위한 라이브러리 추가 -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.springframework.boot</groupId>-->
+<!--			<artifactId>spring-boot-starter-test</artifactId>-->
+<!--			<scope>test</scope>-->
+<!--		</dependency>-->
 
 
 		<!-- 스프링 시큐리티와 통합되는 타임리프 라이브러리 추가 -->
